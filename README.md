@@ -4,6 +4,8 @@ Site da **Atividade A2** (Desenvolvimento Front-End para Web — Curso Superior 
 
 Tema obrigatório em todas as páginas: **sustentabilidade e impacto social**, com **acessibilidade para pessoas com deficiência (PCD)** como público prioritário.
 
+Site no ar (Railway): https://politica-acessivel-production.up.railway.app](https://futuro-verde-production.up.railway.app/
+
 
 ## Equipe
 
